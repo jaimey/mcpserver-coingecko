@@ -16,8 +16,8 @@ Este proyecto implementa un servidor **MCP (Model Context Protocol)** utilizando
 Cloná el repositorio y entrá a la carpeta:
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repo.git
-cd nombre-del-repo
+git clone https://github.com/unsimpledev/mcpserver-coingecko.git
+cd mcpserver-coingecko/mcp-coingecko-wrapper
 ```
 
 Instalá las dependencias:
