@@ -16,8 +16,8 @@ import fetch from "node-fetch";
 
 
 // Config: URLs a PHP
-const webhookUrl = "https://tudominio.com/mcpserver/webhook.php";
-const capabilitiesUrl = "https://tudominio.com/mcpserver/capabilities.php";
+const webhookUrl = "http://localhost/mcpserver-coingecko/mcpserver/webhook.php";
+const capabilitiesUrl = "http://localhost/mcpserver-coingecko/mcpserver/capabilities.php";
 
 // Crear instancia del MCP Server que va a exponer las tools a Claude. 
 // En este caso está vacío al principio (tools: {}), porque las tools se cargarán dinámicamente desde capabilities.php.

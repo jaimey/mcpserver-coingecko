@@ -1,0 +1,10 @@
+{
+    "servers": {
+        "mcp-server": {
+            "command": "node",
+            "args": [
+                "/var/www/html/mcpserver-coingecko/mcp-coingecko-wrapper/build/index.js"
+            ]
+        }
+    }
+}
